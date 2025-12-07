@@ -1,0 +1,55 @@
+"AppState"
+{
+	"appid"		"1817190"
+	"Universe"		"1"
+	"LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
+	"name"		"Marvel's Spider-Man: Miles Morales"
+	"StateFlags"		"4"
+	"installdir"		"Marvel's Spider-Man Miles Morales"
+	"LastUpdated"		"1765013219"
+	"LastPlayed"		"1765015355"
+	"SizeOnDisk"		"50902803450"
+	"StagingSize"		"0"
+	"buildid"		"14744444"
+	"LastOwner"		"76561199435267357"
+	"DownloadType"		"1"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"39949296064"
+	"BytesDownloaded"		"39949296064"
+	"BytesToStage"		"50902803450"
+	"BytesStaged"		"50902803450"
+	"TargetBuildID"		"14744444"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"1817191"
+		{
+			"manifest"		"3147410455635656654"
+			"size"		"49673296074"
+		}
+		"1817192"
+		{
+			"manifest"		"6194380709246954205"
+			"size"		"308927280"
+		}
+		"1817194"
+		{
+			"manifest"		"5377748227570864319"
+			"size"		"920580096"
+		}
+	}
+	"SharedDepots"
+	{
+		"228988"		"228980"
+	}
+	"UserConfig"
+	{
+		"language"		"english"
+	}
+	"MountedConfig"
+	{
+		"language"		"english"
+	}
+}
